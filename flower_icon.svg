@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="618"
+   height="600"
+   viewBox="0 0 618 600"
+   id="svg3058"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="blomst3.dxf">
+  <metadata
+     id="metadata3072">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Five-petal flower icon.</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3070" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1017"
+     inkscape:window-height="681"
+     id="namedview3068"
+     showgrid="false"
+     inkscape:zoom="0.39333333"
+     inkscape:cx="309"
+     inkscape:cy="300"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3058" />
+  <title
+     id="title3060">Five-petal flower icon.</title>
+  <g
+     transform="matrix(0.303,0,0,-0.303,0.46439217,616.36335)"
+     id="g3062">
+    <path
+       d="m -427.421,588.294 a 427.58115,427.58115 0 1 0 854.842,0 427.58115,427.58115 0 1 0 264.16,-813.002 A 427.58115,427.58115 0 1 0 0,-727.172 a 427.58115,427.58115 0 1 0 -691.581,502.464 427.58115,427.58115 0 1 0 264.16,813.002 z"
+       id="path3064"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 349.284,551.237 a 352.67115,352.67115 0 1 1 -503.596,-268.35 322.23885,322.23885 0 0 0 308.624,0 427.58115,427.58115 0 0 0 194.972,268.35 z M -416.323,502.53 a 352.67115,352.67115 0 1 1 99.596,-561.8725 322.23885,322.23885 0 0 0 95.37,293.5195 427.58115,427.58115 0 0 0 -194.966,268.353 z m -190.263,-743.187 a 352.67115,352.67115 0 1 1 565.1504,-78.906 322.23885,322.23885 0 0 0 -249.6824,181.405 427.58115,427.58115 0 0 0 -315.468,-102.499 z M 41.4326,-651.264 A 352.67115,352.67115 0 1 1 291.118,-138.158 322.23885,322.23885 0 0 0 41.4356,-319.563 427.58115,427.58115 0 0 0 41.4326,-651.264 z M 632.193,-161.847 A 352.67115,352.67115 0 1 1 221.357,234.177 322.23885,322.23885 0 0 0 316.727,-59.3425 427.58115,427.58115 0 0 0 632.193,-161.847 z M 247.32885,0 a 247.32885,247.32885 0 1 1 -494.6577,0 247.32885,247.32885 0 1 1 494.6577,0 z"
+       id="path3066"
+       inkscape:connector-curvature="0"
+       style="fill:#ffde05" />
+  </g>
+</svg>
